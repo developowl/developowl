@@ -1,13 +1,13 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9c7bd2,100:7a0ba2&height=180&text=Hi!&animation=fadeIn&fontColor=6adf34&fontSize=60" />
-</div>
-    <div align= "left"> 
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9c7bd2,100:7a0ba2&height=180&text=Hi!&animation=fadeIn&fontColor=6adf34&fontSize=60" /> -->
+<!-- </div> -->
+<!--     <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> hi </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> hi </div> 
     </div>
     <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>  -->
+<!--     <div style="margin: 0 auto; text-align: center;" align= "left">
           <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
           <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -26,12 +26,11 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
           <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
-          </div>
-    </div>
+          </div> -->
+<!--     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
-    </div>
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developowl&show_icons=true&theme=material-palenight)
+    </div> -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=developowl&show_icons=true&theme=material-palenight) -->
 
