@@ -3,5 +3,5 @@
 > I'm a developer who wants to become a Kiwi. 🤣
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developowl&show_icons=true&theme=material-palenight)
+- Kubernetes organization [Member](https://github.com/orgs/kubernetes/people?query=developowl)
+- Contributor to [Kubernetes](https://github.com/kubernetes)
